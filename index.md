@@ -1,6 +1,6 @@
 ---
 title: Base Structure
-layout: home
+layout: minimal
 ---
 
 PROMPT:
