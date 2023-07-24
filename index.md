@@ -5,7 +5,7 @@ layout: minimal
 
 **PROMPT**
 
-The following is an attempt to draw analogies between Gender and Race to study the concept of Negative Feedback Loops using ChatGPT. Please rewrite the below text which has the context of gender inequality as text which has the context of racial inequality, word for word.
+The following is an attempt to draw analogies between Gender, Race and Caste to study the concept of Negative Feedback Loops using ChatGPT. Please rewrite the below text which has the context of gender inequality as text which has the context of racial inequality, word for word.
 
 ” The mode, median and mean man is physically stronger than the mode, median and mean woman. But are Men and Women equally intelligent?
 For every 40 Men, 1 woman has been awarded the Nobel Prize.
@@ -33,3 +33,4 @@ Would white individuals still be socially advantaged compared to individuals of 
 
 ------------
 
+Please issue a Pull Request [here](https://github.com/NegativeFeedbackLoops) to contribute to this conversation with ChatGPT :)
