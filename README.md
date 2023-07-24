@@ -17,7 +17,6 @@ Click the "Propose changes" or "Create pull request" button (the text may vary b
 
 ### 6) Add a Pull Request Description:
 On the next page, you'll have the opportunity to add more details to your pull request. Describe the changes you made, why you made them, and any other relevant information.
-Submit the Pull Request:
 Once you are satisfied with the pull request description, click the "Create pull request" button to submit your changes for review.
 
 
