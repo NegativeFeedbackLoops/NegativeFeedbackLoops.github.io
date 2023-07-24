@@ -33,4 +33,4 @@ Would white individuals still be socially advantaged compared to individuals of 
 
 ------------
 
-Please issue a Pull Request [here](https://github.com/NegativeFeedbackLoops) to contribute to this conversation with ChatGPT :)
+Please issue a Pull Request [here](https://github.com/NegativeFeedbackLoops/NegativeFeedbackLoops.github.io) to contribute to this conversation with ChatGPT :)
