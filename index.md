@@ -3,7 +3,7 @@ title: Base Structure
 layout: minimal
 ---
 
-” The mode, median and mean man is physically stronger than the mode, median and mean woman. But are Men and Women equally intelligent?
+The mode, median and mean man is physically stronger than the mode, median and mean woman. But are Men and Women equally intelligent?
 For every 40 Men, 1 woman has been awarded the Nobel Prize.
 The current top 100 rated chess players are all Men. Is the answer certainly Men?
 
@@ -12,7 +12,7 @@ The consensus on the forum is that ‘women can’t play chess lol’ and ‘gir
 
 Escaping these loops is difficult. Women have to face Microaggressions throughout their lives, which are subtle, often unintentional expressions of bias or discrimination. Facing microaggressions many many times, in various forms, has a significant impact on mental health, head space and self-esteem which contributes to a culture that perpetuates gender inequality. Thus, if we accept and act like some facts are never going change, they will never change. What has been true in our primal past, will continue to do so in our future.
 
-Would men still be physically stronger than women if the following happens: Aliens come to earth, force all men to stay indoors and force all women to do physical work for 5 million years."
+Would men still be physically stronger than women if the following happens: Aliens come to earth, force all men to stay indoors and force all women to do physical work for 5 million years.
  
 
 
